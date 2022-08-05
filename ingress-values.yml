@@ -1,0 +1,7 @@
+controller:
+  ingressClassResource:
+    default: true
+  metrics:
+    enabled: true
+defaultBackend:
+  enabled: true
